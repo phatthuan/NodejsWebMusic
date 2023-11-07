@@ -1,0 +1,186 @@
+<style>
+
+    .comment-box {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+    }
+
+    .comment-box h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .comment-box form label {
+        display: block;
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+    .comment-box form input[type="text"],
+    .comment-box form textarea {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+    .comment-box form textarea {
+        height: 150px;
+    }
+
+    .comment-box form button[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    .comment-box .comments {
+        margin-top: 40px;
+    }
+
+    .comment-box .comment {
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+
+    .comment-box .comment h3 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .comment-box .comment p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .alert {
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 16px;
+        color: #141414;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .success {
+        background-color: rgb(7, 154, 7);
+    }
+
+    .danger {
+        background-color: rgb(148, 35, 10);
+    }
+</style>
+<!-- Flash message -->
+<div class="form-group">
+    <div id="flash-alert" class="alert alert-danger alert-dismissible fade show" style="display: none;">
+    </div>
+</div>
+
+<div class="comment-box">
+    <h2>Phần bình luận âm nhạc</h2>
+    <form>
+        <label for="comment">Nội dung:</label>
+        <textarea id="comment" name="comment"></textarea>
+
+        <button type="submit" id="nutbinhluan">Gửi</button>
+    </form>
+
+    <div class="comments" id="thongtinbinhluan">
+    </div>
+</div>
+<script src="/admin/js/core/jquery.3.2.1.min.js"></script>
+<script src="/axios/axios.min.js"></script>
+<script>
+    // Lấy tất cả review ứng với id của bài hát
+    async function getReviewBySongID(id) {
+        try {
+            const response = await axios.get(`http://localhost:3000/api/v1/songs/${id}/reviews`)
+            const data = response.data.data.map(function (review) {
+                return {
+                    id: review.id,
+                    name: review.account.name,
+                    content: review.review,
+                    createdAt: review.createdAt
+                }
+            })
+            return data
+        } catch (error) {
+            console.log(error)
+            return
+        }
+    }
+    async function showAllBinhLuan() {
+        var id = JSON.parse(localStorage.getItem('baihatdangphat'))
+        const data = await getReviewBySongID(id)
+        const parentElement = document.querySelector("#thongtinbinhluan");
+        for (let i = 0; i < data.length; i++) {
+            const comment = data[i];
+            const childElement = document.createElement("div");
+            childElement.className = "comment";
+            childElement.innerHTML = `<h3>Tên người dùng: ${comment.name}</h3><p>Bình luận ${comment.content}</p>`;
+            parentElement.appendChild(childElement);
+        }
+    }
+    showAllBinhLuan()
+</script>
+<script>
+    if (localStorage.getItem('user')) {
+        const submitButton = document.querySelector("#nutbinhluan");
+    } else {
+        const submitButton = document.querySelector("#nutbinhluan");
+        submitButton.style.backgroundColor = "red";
+    }
+    function showFlashMessage(message, type) {
+
+        const flashAlert = document.querySelector('#flash-alert');
+        flashAlert.innerText = message
+        flashAlert.style.display = 'block';
+        flashAlert.classList.remove('alert-success', 'alert-danger');
+
+        if (type == 'danger') {
+            flashAlert.classList.add('alert-danger');
+        } else {
+            flashAlert.classList.add('alert-success');
+        }
+
+        setTimeout(() => {
+            $('#flash-alert').fadeOut(2000)
+        }, 1000);
+    }
+    nutbinhluan.addEventListener("click", async function (e) {
+        e.preventDefault()
+        if (localStorage.getItem('user')) {
+            let songID = JSON.parse(localStorage.getItem('baihatdangphat'))
+            let content = document.getElementById('comment').value
+            const data = await addReviewBySongID(songID, content)
+            location.reload();
+        } else {
+            showFlashMessage("Bạn không thể bình luận do chưa đăng nhập", "danger")
+        }
+    })
+    async function addReviewBySongID(songID, content) {
+        try {
+            const response = await axios.post(`http://localhost:3000/api/v1/songs/${songID}/reviews`,
+                {
+                    review: content
+                })
+
+            const data = response.data.data
+            return data
+        } catch (error) {
+            console.log(error.response.data)
+            return
+        }
+    }
+</script>

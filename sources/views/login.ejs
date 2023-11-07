@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/login.css">
+    <link rel="stylesheet" href="/fonts/fontawesome-free-5.15.3-web/css/all.min.css">
+    <link rel="icon" href="images/icon-home/small-logo.svg" type="image/gif" sizes="16x16">
+    <title>Login - Sign Up Zing MP3</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+</head>
+
+<body>
+    <!-- Flash message -->
+    <div id="flash-alert" class="alert success" style="display: none;">
+        Your form has been submitted successfully.
+    </div>
+
+    <div class="container" id="container">
+        <div class="form-container sign-up-container">
+            <form>
+                <h1>Tạo tài khoản mới</h1>
+                <input type="text" id="name_register" placeholder="Họ và Tên" />
+                <input type="email" id="email_register" placeholder="Email" />
+                <input type="password" id="password_register" placeholder="Mật khẩu" />
+                <input type="password" id="confirm_register" placeholder="Xác nhận mật khẩu" />
+                <button type="button" id="registerButton">Đăng ký</button>
+            </form>
+
+        </div>
+        <div class="form-container sign-in-container">
+            <form>
+                <h1>Đăng nhập</h1>
+                <input type="email" id="email_login" placeholder="Email" />
+                <input type="password" id="password_login" placeholder="Mật khẩu" />
+                <button type="button" id="loginButton">Đăng nhập</button>
+            </form>
+        </div>
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-left">
+                    <h1>Bạn đã có tài khoản!</h1>
+                    <img src="/images/sidebar-icon/logo/zing_icon.png" alt="">
+                    <p>Trở về đăng nhập với tài khoản của bạn</p>
+                    <button class="ghost" id="signIn">Đăng nhập</button>
+                </div>
+                <div class="overlay-panel overlay-right">
+                    <h1>Bạn chưa có tài khoản?</h1>
+                    <img src="/images/sidebar-icon/logo/zing_icon.png" alt="">
+                    <p>Tạo ngay tài khoản mới để liên kết với chúng tôi</p>
+                    <button class="ghost" id="signUp">Đăng ký</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+<!-- Axious -->
+<script src="/axios/axios.min.js"></script>
+
+<script src="/javascripts/login.js"></script>
+
+</html>

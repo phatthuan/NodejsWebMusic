@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "63fe2475cd0876962455d91e"
+  },
+  "id": "IWZ97FCD",
+  "name": "V-Pop",
+  "link": "/the-loai-album/V-Pop/IWZ97FCD.html",
+  "title": "V-Pop",
+  "alias": "v-pop",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2475cd0876962455d920"
+  },
+  "id": "IWZ9Z0CW",
+  "name": "Dance Việt",
+  "link": "/the-loai-album/Dance-Viet/IWZ9Z0CW.html",
+  "title": "Dance Việt",
+  "alias": "dance-viet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2475cd0876962455d922"
+  },
+  "id": "IWZ9Z08I",
+  "name": "Việt Nam",
+  "link": "/the-loai-album/Viet-Nam/IWZ9Z08I.html",
+  "title": "Việt Nam",
+  "alias": "viet-nam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2476cd0876962455d924"
+  },
+  "id": "IWZ9Z089",
+  "name": "Rap Việt",
+  "link": "/the-loai-album/Rap-Viet/IWZ9Z089.html",
+  "title": "Rap Việt",
+  "alias": "rap-viet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2476cd0876962455d926"
+  },
+  "id": "IWZ9Z090",
+  "name": "Nhạc Không Lời",
+  "link": "/the-loai-album/Nhac-Khong-Loi/IWZ9Z090.html",
+  "title": "Nhạc Không Lời",
+  "alias": "nhac-khong-loi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2476cd0876962455d928"
+  },
+  "id": "IWZ97FCE",
+  "name": "EDM Việt",
+  "link": "/the-loai-album/EDM-Viet/IWZ97FCE.html",
+  "title": "EDM Việt",
+  "alias": "edm-viet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe24bbed29770bcdf89368"
+  },
+  "id": "IWZ98I0D",
+  "name": "Tết",
+  "link": "/the-loai-album/Tet/IWZ98I0D.html",
+  "title": "Tết",
+  "alias": "tet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643a7094f4575a4d73e06678"
+  },
+  "id": "2i35yU_N",
+  "name": "Nhạc trữ tình",
+  "link": "/genre/nhac-tru-tinh-2i35yU_N.html",
+  "title": "Nhạc trữ tình",
+  "alias": "nhac-tru-tinh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643aaced2df754de465b7e22"
+  },
+  "id": "Z1vCJF7a",
+  "name": "Nhạc Âu Mĩ",
+  "link": "/genre/nhac-au-mi-Z1vCJF7a.html",
+  "title": "Nhạc Âu Mĩ",
+  "alias": "nhac-au-mi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440a1b7164402468bb13cb4"
+  },
+  "id": "eTmV0yKV",
+  "name": "Nhạc buồn",
+  "link": "/genre/nhac-buon-eTmV0yKV.html",
+  "title": "Nhạc buồn",
+  "alias": "nhac-buon",
+  "__v": 0
+}]

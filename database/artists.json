@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "63fb082639025d33037ac382"
+  },
+  "id": "IWZ97DB0",
+  "name": "Sơn Tùng M-TP",
+  "link": "/Son-Tung-M-TP",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/a/a/b/8aab7a0386dd9c24b90adcc5ef5a7814.jpg",
+  "alias": "Son-Tung-M-TP",
+  "realname": "Nguyễn Thanh Tùng",
+  "national": "Việt Nam",
+  "birthday": "05/07/1994",
+  "totalFollower": 2423201,
+  "accountId": "63fb082439025d33037ac37f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3029a85bd35a345f47"
+  },
+  "id": "IWZ9ZWOC",
+  "name": "Đông Nhi",
+  "link": "/Dong-Nhi",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/a/1/2ea1ee0e687c59f0ead71042c7f4b245.jpg",
+  "alias": "Dong-Nhi",
+  "realname": "Mai Hồng Ngọc",
+  "national": "Việt Nam",
+  "birthday": "13/10/1988",
+  "totalFollower": 120726,
+  "accountId": "63fdfa2e29a85bd35a345f37",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3029a85bd35a345f4b"
+  },
+  "id": "IWZ9ZCFA",
+  "name": "Ông Cao Thắng",
+  "link": "/Ong-Cao-Thang",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/3/2/f/132fe83dfc6cc9de5fce8e2aada4fc3a.jpg",
+  "alias": "Ong-Cao-Thang",
+  "realname": "Ông Cao Thắng",
+  "national": "Việt Nam",
+  "birthday": "13/01/1986",
+  "totalFollower": 17496,
+  "accountId": "63fdfa2e29a85bd35a345f39",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3029a85bd35a345f4d"
+  },
+  "id": "IWZ9ZBBF",
+  "name": "Ngô Kiến Huy",
+  "link": "/NgoKienHuy",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/1/6/b/d16b1adc221d05d0d5d9d6cd4f49d004.jpg",
+  "alias": "NgoKienHuy",
+  "realname": "Lê Thành Dương",
+  "national": "Việt Nam",
+  "birthday": "29/06/1988",
+  "totalFollower": 190500,
+  "accountId": "63fdfa2e29a85bd35a345f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3129a85bd35a345f56"
+  },
+  "id": "IWZ9ZZAO",
+  "name": "Phương Vy",
+  "link": "/nghe-si/Phuong-Vy",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/2/820433d0337ae6ba986e8ddb40951b8b_1286031465.jpg",
+  "alias": "Phuong-Vy",
+  "realname": "Nguyễn Ngọc Phương Vy",
+  "national": "Việt Nam",
+  "birthday": "27/08/1987",
+  "totalFollower": 2490,
+  "accountId": "63fdfa2f29a85bd35a345f3d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3129a85bd35a345f58"
+  },
+  "id": "IWZ9ZWAA",
+  "name": "Quang Dũng",
+  "link": "/Quang-Dung",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/ca8e77dd990dc92464fa910c3ddb7b6a_1510542443.jpg",
+  "alias": "Quang-Dung",
+  "realname": "Thái Văn Dũng",
+  "national": "Việt Nam",
+  "birthday": "08/08/1980",
+  "totalFollower": 313524,
+  "accountId": "63fdfa2f29a85bd35a345f43",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3129a85bd35a345f5a"
+  },
+  "id": "IWZ9ZZBO",
+  "name": "Hồ Trung Dũng",
+  "link": "/nghe-si/Ho-Trung-Dung",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/9/096dc7feaf598c1e01d04363e5950799_1471329463.jpg",
+  "alias": "Ho-Trung-Dung",
+  "realname": "Hồ Trung Dũng",
+  "national": "Việt Nam",
+  "birthday": "1982",
+  "totalFollower": 4284,
+  "accountId": "63fdfa2f29a85bd35a345f45",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3129a85bd35a345f5d"
+  },
+  "id": "IWZ997D0",
+  "name": "Đinh Hương",
+  "link": "/Dinh-Huong",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/1/2/c/c12c04e6258188e1fed5e68448ca4474.jpg",
+  "alias": "Dinh-Huong",
+  "realname": "Đinh Thị Thanh Hương",
+  "national": "Việt Nam",
+  "birthday": "07/10/1987",
+  "totalFollower": 6767,
+  "accountId": "63fdfa3129a85bd35a345f55",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3229a85bd35a345f5f"
+  },
+  "id": "IWZ9ZW8Z",
+  "name": "Phương Thanh",
+  "link": "/Phuong-Thanh",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/b/9/1/0b91914b8b6a1df50848048919bce64e.jpg",
+  "alias": "Phuong-Thanh",
+  "realname": "Bùi Thị Phương Thanh",
+  "national": "Việt Nam",
+  "birthday": "27/04/1973",
+  "totalFollower": 39176,
+  "accountId": "63fdfa2f29a85bd35a345f41",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3229a85bd35a345f61"
+  },
+  "id": "IWZ9ZCEU",
+  "name": "Vy Oanh",
+  "link": "/Vy-Oanh",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/9/394659692a460258b45a99f1424ea357_1469531919.jpg",
+  "alias": "Vy-Oanh",
+  "realname": "Nguyễn Thị Mỹ Oanh",
+  "national": "Việt Nam",
+  "birthday": "28/09/01985",
+  "totalFollower": 36811,
+  "accountId": "63fdfa2f29a85bd35a345f3f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe25f82afc2cca8bf3feaf"
+  },
+  "id": "IW6ZZ690",
+  "name": "HIEUTHUHAI",
+  "link": "/nghe-si/HIEUTHUHAI",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/9/6/bf969389e9de70560cede36559c8ca4a.jpg",
+  "alias": "HIEUTHUHAI",
+  "realname": "Trần Minh Hiếu",
+  "national": "Việt Nam",
+  "birthday": "25/02/1999",
+  "totalFollower": 57326,
+  "accountId": "63fe25f72afc2cca8bf3fead",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2abb300c849fca28bfc9"
+  },
+  "id": "IW6WCUO8",
+  "name": "LyLy",
+  "link": "/Nguyen-Hoang-Ly",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/2/b/3/02b304b99bd227ac4043de31c3b4d1c4.jpg",
+  "alias": "Nguyen-Hoang-Ly",
+  "realname": "Nguyễn Hoàng Ly",
+  "national": "Việt Nam",
+  "birthday": "01/01/1996",
+  "totalFollower": 66673,
+  "accountId": "63fe2aba300c849fca28bfc7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6a161c2786fc386a1d"
+  },
+  "id": "IWZAZEUU",
+  "name": "Magazine",
+  "link": "/Magazine",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/8/a/8/b8a8c2b00565443a8a752ad1df95ce8d.jpg",
+  "alias": "Magazine",
+  "realname": "Nguyễn Ngọc Nam",
+  "national": "Việt Nam",
+  "birthday": "19/04/1989",
+  "totalFollower": 7891,
+  "accountId": "63fe2c69161c2786fc386a0f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6b161c2786fc386a21"
+  },
+  "id": "IWZAZFCO",
+  "name": "Quang Hùng MasterD",
+  "link": "/Quang-Hung-MasterD",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/b/0/bfb0aab82efd18aebefdeeb682f3d9f3.jpg",
+  "alias": "Quang-Hung-MasterD",
+  "realname": "Lê Quang Hùng",
+  "national": "Việt Nam",
+  "birthday": "07/10/1997",
+  "totalFollower": 37072,
+  "accountId": "63fe2c6a161c2786fc386a11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6b161c2786fc386a23"
+  },
+  "id": "IW6ZZDEF",
+  "name": "Right",
+  "link": "/nghe-si/Right",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/5/c/d/55cda03fa9fe3b6b8118f3759e9ad958.jpg",
+  "alias": "Right",
+  "realname": "Vũ Ngọc Chương",
+  "national": "Việt Nam",
+  "birthday": "",
+  "totalFollower": 1223,
+  "accountId": "63fe2c6a161c2786fc386a13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6c161c2786fc386a29"
+  },
+  "id": "IWZFDF86",
+  "name": "Anh Tú",
+  "link": "/Nguyen-Anh-Tu",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/f/c/1/7fc1fba15217facf581b03126bf3db55.jpg",
+  "alias": "Nguyen-Anh-Tu",
+  "realname": "Nguyễn Anh Tú",
+  "national": "Việt Nam",
+  "birthday": "30/05/1992",
+  "totalFollower": 49533,
+  "accountId": "63fe2c6a161c2786fc386a19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6c161c2786fc386a2b"
+  },
+  "id": "IWZ97FE0",
+  "name": "Dương Edward",
+  "link": "/Duong-Edward",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/9/6/b/f96bcce810237ef75054a9f2adf9b6f2.jpg",
+  "alias": "Duong-Edward",
+  "realname": "Nguyễn Tùng Dương",
+  "national": "Việt Nam",
+  "birthday": "08/09/1992",
+  "totalFollower": 23742,
+  "accountId": "63fe2c6a161c2786fc386a17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6c161c2786fc386a2d"
+  },
+  "id": "IWZ96FB8",
+  "name": "Hằng BingBoong",
+  "link": "/Hang-BingBoong",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/46a9d0854dd6812c506dfd7d7698fb3c_1501035890.jpg",
+  "alias": "Hang-BingBoong",
+  "realname": "Vũ Thanh Hằng",
+  "national": "Việt Nam",
+  "birthday": "20/02/1989",
+  "totalFollower": 11029,
+  "accountId": "63fe2c6a161c2786fc386a15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6d161c2786fc386a2f"
+  },
+  "id": "IWZ96F6O",
+  "name": "Karik",
+  "link": "/Karik",
+  "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/e/e/74ee12d1aecebbb986c69e31d198cd04.jpg",
+  "alias": "Karik",
+  "realname": "Phạm Hoàng Khoa",
+  "national": "Việt Nam",
+  "birthday": "12/04/1989",
+  "totalFollower": 508478,
+  "accountId": "63fe2c6a161c2786fc386a1c",
+  "__v": 0
+}]

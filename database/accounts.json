@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "63fb082439025d33037ac37e"
+  },
+  "email": "sontungmtp@gmail.com",
+  "name": "Nguyễn Thanh Tùng",
+  "password": "$2a$12$JbI77zZoEA4AayuA65kHa.AmAmIKHm3c9vQwcr16Jt9AuRRkqPlsi",
+  "active": true,
+  "id": "63fb082439025d33037ac37f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa2e29a85bd35a345f36"
+  },
+  "email": "dongnhi@gmail.com",
+  "name": "Mai Hồng Ngọc",
+  "password": "$2a$12$A3KzTutdSNwfLUxmxiaDcu6sepp0Ryew40dF5d8ZkTBugyrhCGB9O",
+  "active": false,
+  "id": "63fdfa2e29a85bd35a345f37",
+  "__v": 0,
+  "role": "User"
+},{
+  "_id": {
+    "$oid": "63fdfa2e29a85bd35a345f38"
+  },
+  "email": "ongcaothang@gmail.com",
+  "name": "Ông Cao Thắng",
+  "password": "$2a$12$FJYNCkF9UOIEdTm3nyt4HuzvMmk2FYsWBH6ATMZwhxJhTLwTNNz2y",
+  "active": true,
+  "id": "63fdfa2e29a85bd35a345f39",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa2e29a85bd35a345f3a"
+  },
+  "email": "ngokienhuy@gmail.com",
+  "name": "Lê Thành Dương",
+  "password": "$2a$12$jrMHhsClu3LP/DLKuXb6ZefWyCrFi/OzSTNJaOSwxm5fe0F7tbcCe",
+  "active": true,
+  "id": "63fdfa2e29a85bd35a345f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa2f29a85bd35a345f3c"
+  },
+  "email": "phuongvy@gmail.com",
+  "name": "Nguyễn Ngọc Phương Vy",
+  "password": "$2a$12$TPr25djBnuDk0olbw/UgWOQlsdXH5NmbPfWaZdKrM97q9tgNQ2aby",
+  "active": true,
+  "id": "63fdfa2f29a85bd35a345f3d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa2f29a85bd35a345f42"
+  },
+  "email": "quangdung@gmail.com",
+  "name": "Thái Văn Dũng",
+  "password": "$2a$12$XiQSM/ab/CtDlTCpch8CVuFDGZMuyhWQjIInPmtATmCkNyu4fvnvy",
+  "active": true,
+  "id": "63fdfa2f29a85bd35a345f43",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa2f29a85bd35a345f44"
+  },
+  "email": "hotrungdung@gmail.com",
+  "name": "Hồ Trung Dũng",
+  "password": "$2a$12$vij/rTeCi.UsdK6hxKzE4.HAIh6rvEhkcYAHI/VvTchoXr2KbQECa",
+  "active": true,
+  "id": "63fdfa2f29a85bd35a345f45",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa3129a85bd35a345f54"
+  },
+  "email": "dinhhuong@gmail.com",
+  "name": "Đinh Thị Thanh Hương",
+  "password": "$2a$12$x7VMKpcXUrWcSytxT6agDOS7qic8uWtCh2X4k96faOQMIsFSkfjzK",
+  "active": true,
+  "id": "63fdfa3129a85bd35a345f55",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa2f29a85bd35a345f40"
+  },
+  "email": "phuongthanh@gmail.com",
+  "name": "Bùi Thị Phương Thanh",
+  "password": "$2a$12$4/tht.13MGWsIe92IYfMV.lj5q29OSKQDHLBKb41cNRPfOrLC.zHO",
+  "active": true,
+  "id": "63fdfa2f29a85bd35a345f41",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fdfa2f29a85bd35a345f3e"
+  },
+  "email": "vyoanh@gmail.com",
+  "name": "Nguyễn Thị Mỹ Oanh",
+  "password": "$2a$12$ikXKBHWXzYmmeYgzjXMJve2OKlK/liyKJtqoHaSqZ2hzahtyGtf0W",
+  "active": true,
+  "id": "63fdfa2f29a85bd35a345f3f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe25f72afc2cca8bf3feac"
+  },
+  "email": "hieuthuhai@gmail.com",
+  "name": "Trần Minh Hiếu",
+  "password": "$2a$12$IsPk3e3kNL0SSSNjuDbu8uOPDP/wgs/OECHMvBaOKCKTm1oF2GppC",
+  "active": true,
+  "id": "63fe25f72afc2cca8bf3fead",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2aba300c849fca28bfc6"
+  },
+  "email": "nguyenhoangly@gmail.com",
+  "name": "Nguyễn Hoàng Ly",
+  "password": "$2a$12$j04Jbg8lFVMX0oZTss1rzO29zpjEUJ6/wQvpPb4rcWim2ZrwqDSfq",
+  "active": true,
+  "id": "63fe2aba300c849fca28bfc7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c69161c2786fc386a0e"
+  },
+  "email": "magazine@gmail.com",
+  "name": "Nguyễn Ngọc Nam",
+  "password": "$2a$12$GFf7pJczYdLRsRAZXHSg4ewbyIFQKLS/4S3rd7n//ZbMTMShQ77k2",
+  "active": true,
+  "id": "63fe2c69161c2786fc386a0f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6a161c2786fc386a12"
+  },
+  "email": "right@gmail.com",
+  "name": "Vũ Ngọc Chương",
+  "password": "$2a$12$rnhxxzEhU6etGhMq3J8YP.u5p7eo7bEYqi/WO9j0ArjmE9TmqEg2W",
+  "active": true,
+  "id": "63fe2c6a161c2786fc386a13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6a161c2786fc386a10"
+  },
+  "email": "quanghungmasterd@gmail.com",
+  "name": "Lê Quang Hùng",
+  "password": "$2a$12$2kPg2eXNWRRHXWGSMgDa1e9fPQZXC9bCxDC8te3Puq16SbOCBUcTS",
+  "active": true,
+  "id": "63fe2c6a161c2786fc386a11",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6a161c2786fc386a18"
+  },
+  "email": "nguyenanhtu@gmail.com",
+  "name": "Nguyễn Anh Tú",
+  "password": "$2a$12$8gUskFuErGz78yEA52/bd.zkbmAwXZ1uaWnqj.GATGX/yt2R7WRmi",
+  "active": true,
+  "id": "63fe2c6a161c2786fc386a19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6a161c2786fc386a16"
+  },
+  "email": "duongedward@gmail.com",
+  "name": "Nguyễn Tùng Dương",
+  "password": "$2a$12$0zg0abGoNqadsB0kxiMy3.6OsyJfQF1b9NtjbYHhfGOJOxHOYqBzK",
+  "active": true,
+  "id": "63fe2c6a161c2786fc386a17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6a161c2786fc386a14"
+  },
+  "email": "hangbingboong@gmail.com",
+  "name": "Vũ Thanh Hằng",
+  "password": "$2a$12$zmW5TPP35HGMZR5/wh8qZ.EJ1mrXGqL48N.VXH/Y5hEEoQlA5AUqG",
+  "active": true,
+  "id": "63fe2c6a161c2786fc386a15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fe2c6a161c2786fc386a1b"
+  },
+  "email": "karik@gmail.com",
+  "name": "Phạm Hoàng Khoa",
+  "password": "$2a$12$56UPniZqZPf.3Xyu.Akq/.Bqk8flbW7ukB.Dvu.6KjVkilS8NK2oO",
+  "active": true,
+  "id": "63fe2c6a161c2786fc386a1c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641542d1470fdf98437597d3"
+  },
+  "email": "dungdqch@gmail.com",
+  "name": "dungdqch",
+  "password": "$2a$12$qA4r/n0D1PybnNFnPbhT8eWAPCJX/HtTBKZIjGg9zjP6KK1eWTJVu",
+  "active": true,
+  "id": "641542d1470fdf98437597d4",
+  "__v": 0,
+  "role": "Admin"
+},{
+  "_id": {
+    "$oid": "641542fee225047a902e32b3"
+  },
+  "email": "dungdqch1@gmail.com",
+  "name": "dungdqch",
+  "password": "$2a$12$V70IDRCOIhC/i2wEbTiPQOyBCmlLLPWtvezKSrwUVhEgpOlrH.YXS",
+  "active": true,
+  "id": "641542fee225047a902e32b4",
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": "2023-04-04T10:31:02.529Z"
+  },
+  "role": "User"
+},{
+  "_id": {
+    "$oid": "641935c5b1a632af9f136a14"
+  },
+  "email": "admin@gmail.com",
+  "name": "admin123",
+  "password": "$2a$12$ZjNWLSTDx0Gbl1FevmRrWe41GSLKew5oIuUv/XZqoBTfCu6A3T5O2",
+  "active": true,
+  "id": "641935c5b1a632af9f136a15",
+  "__v": 0,
+  "role": "Admin"
+},{
+  "_id": {
+    "$oid": "643a20b84f83123e0b148735"
+  },
+  "email": "hoangkute189@gmail.com",
+  "name": "hoanggia",
+  "password": "$2a$12$nK6X1my/YkPTpG4qJkNdmu961Mkii1WEBq5eDagwuRGCT4gR0dgaW",
+  "role": "User",
+  "active": true,
+  "id": "643a20b84f83123e0b148736",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643a2fa6bb5ff1a0b8010da2"
+  },
+  "email": "duongchi@gmail.com",
+  "name": "Dương Trọng Chí",
+  "password": "$2a$12$oeinmzipgpAtAiK9/q.FtuUbp/gmLIKlR6NANtupN48VAiwBVe94K",
+  "role": "User",
+  "active": true,
+  "id": "643a2fa6bb5ff1a0b8010da3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643a2fe626bf553e1895092e"
+  },
+  "email": "duongchi123@gmail.com",
+  "name": "Dương Trọng Chí",
+  "password": "$2a$12$s5e11QH09i5e/8udGbqOpeTRAQSvE.390u14VeyYyh89bNnOtsI7y",
+  "role": "User",
+  "active": true,
+  "id": "643a2fe626bf553e1895092f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643b714b644cd75acbcdfdc2"
+  },
+  "email": "hoang@gmail.com",
+  "name": "Trần Gia Hoàng",
+  "password": "$2a$12$fP.y68PVy.98QybdEK6IJOpJoFHedClV6Ln.cuHhLiyhB3.0eIt2u",
+  "role": "User",
+  "active": true,
+  "id": "643b714b644cd75acbcdfdc3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643b71a0897471762c5f952c"
+  },
+  "email": "huynhngoc@gmail.com",
+  "name": "Huỳnh Ngọc phước",
+  "password": "$2a$12$s5XMu9rIKqUqhUUH5tGBguRjwuSX6sxf/u1ncnFkzgR6mpFJNw1nK",
+  "role": "User",
+  "active": true,
+  "id": "643b71a0897471762c5f952d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643c176689a5bcdcc7ad7d35"
+  },
+  "email": "levannam@gmail.com",
+  "name": "Lê Văn Nam",
+  "password": "$2a$12$zORCMKX7tZ7015TOCKeVbuIPr.dqijLjufAKyunHAY1.5NgiQkeoO",
+  "role": "User",
+  "active": true,
+  "id": "643c176689a5bcdcc7ad7d36",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64422732e72ead04be27607d"
+  },
+  "email": "test@gmail.com",
+  "name": "Test Customer",
+  "password": "$2a$12$CFfNskmyX0VwkkbC/9bdaehWa5lfCmlNu2c1wmKLX2TCQWR7zs16a",
+  "role": "User",
+  "active": true,
+  "id": "64422732e72ead04be27607e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64422bbab0901ef40e7d8b70"
+  },
+  "email": "demo@gmail.com",
+  "name": "demo",
+  "password": "$2a$12$Gu5CBiNLhUNGcMdwY2J9SOxoByx/pNuusOVvSE41Qm6EBxhRVDWti",
+  "role": "User",
+  "active": true,
+  "id": "64422bbab0901ef40e7d8b71",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442df53095386a998c0535b"
+  },
+  "email": "phat@email.com",
+  "name": "phat",
+  "password": "$2a$12$kNgxb2nXwxEC4/.lwduaJO5qKrp4py/lVvyDOdinUMxsnQaU3/SRa",
+  "role": "User",
+  "active": true,
+  "id": "6442df53095386a998c0535c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64436820d44a74f5ccd926b7"
+  },
+  "email": "admin123@gmail.com",
+  "name": "admin123",
+  "password": "$2a$12$lFWO9etN1UFQCYaft1MqpOd5TNBAjFvK4edNGGfD1Ibg8gsXYESRi",
+  "role": "User",
+  "active": true,
+  "id": "64436820d44a74f5ccd926b8",
+  "__v": 0
+}]
